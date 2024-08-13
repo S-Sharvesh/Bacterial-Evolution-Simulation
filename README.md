@@ -22,6 +22,26 @@ Data Collection and Visualization:
 Throughout the simulation, data is collected on the population size, average heat resistance, and average pressure resistance over time.
 After the simulation ends, Matplotlib is used to generate plots showing the population growth and the evolution of heat and pressure resistance, providing insights into how the bacteria adapted to their environment.
 
+In the Bacterial Evolution Simulation, the color of each bacterium changes over time to visually represent its generational progression. This change in color is directly tied to the generation number of the bacterium, with different colors indicating the evolution and adaptation of the bacteria through successive generations.
+
+# How the Color Changes Work:
+# Hue-Based Color Representation:
+
+The color of a bacterium is determined using the HLS (Hue, Lightness, Saturation) color model, where the hue component is tied to the generation number. As bacteria reproduce and form new generations, their hue value changes incrementally.
+Specifically, the hue is calculated as the ratio of the bacterium's generation number to a predefined maximum number of generations (e.g., 100). This hue value is then converted to an RGB color that is visually distinct from the colors of previous generations.
+Visualizing Evolution:
+
+Early generations might be represented by colors like red or orange, while later generations could shift towards green, blue, or purple, depending on the hue calculation.
+As bacteria evolve and reproduce, the shift in color provides a visual cue to observers, making it easy to identify which bacteria are more evolved and have adapted better to the environment.
+Significance of Color Change:
+
+The changing colors serve as a visual representation of natural selection at work. As the simulation progresses, observers can see which bacteria survive and reproduce, leading to a population that visually evolves over time.
+This color shift also highlights the genetic diversity within the bacterial population, showing how certain traits (like heat and pressure resistance) may become more prevalent as bacteria with advantageous traits reproduce more successfully.
+In summary, the color change of the bacteria over time is a way to visually track the evolutionary progress of the population, allowing users to see the generational shift and adaptation to environmental challenges in real-time.
+
+# Color Change in Bacteria 
+<img width="1415" alt="image" src="https://github.com/user-attachments/assets/fa828eca-9aa6-4459-9190-9d575090c0ac">
+
 # Bacterial Evolution Image:
 <img width="1412" alt="image" src="https://github.com/user-attachments/assets/19ca5f34-1802-42e1-b8a5-88fdb18a75fa">
 
