@@ -46,6 +46,32 @@ In summary, the color change of the bacteria over time is a way to visually trac
 <img width="1415" alt="image" src="https://github.com/user-attachments/assets/fa828eca-9aa6-4459-9190-9d575090c0ac">
 
 
+# Explanation:
+# Data Preparation:
+
+time_data: A list containing the time points at which the data was recorded.
+population_data: A list containing the bacterial population at each time point.
+heat_resistance_data: A list containing the average heat resistance of the bacterial population at each time point.
+pressure_resistance_data: A list containing the average pressure resistance of the bacterial population at each time point.
+Plot 1: Population Growth Over Time:
+
+The first subplot (plt.subplot(2, 1, 1)) shows the bacterial population as a function of time. This graph allows you to see how the population changes over the course of the simulation.
+Plot 2: Heat and Pressure Resistance Over Time:
+
+The second subplot (plt.subplot(2, 1, 2)) displays the average heat and pressure resistance of the bacteria as a function of time. This graph helps you track how the bacteria are evolving to adapt to environmental conditions.
+Customization:
+
+The code includes labels, gridlines, and legends to make the graphs more informative and easier to interpret.
+Display:
+
+Finally, plt.show() displays the graphs in a single window with a tight layout for better visibility.
+You can replace the sample data with your actual simulation data to visualize the results of your simulation.
+
+# Plots:
+<img width="1002" alt="image" src="https://github.com/user-attachments/assets/a6dc35a3-6891-485d-9b12-f307a30c65b1">
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/309d6801-0141-413d-ac8b-747ef5ad6b10">
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/d9732855-fbf5-40b3-bb2f-72e83b36ec70">
+
 # Learning Outcomes:
 This project demonstrates key concepts in evolutionary biology, such as natural selection, mutation, and survival of the fittest, in a controlled digital environment. It also provides practical experience with Python programming, including the use of libraries like Pygame, Tkinter, and Matplotlib, and concepts such as object-oriented programming, simulation modeling, and data visualization.
 
