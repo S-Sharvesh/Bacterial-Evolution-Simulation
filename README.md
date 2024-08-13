@@ -39,11 +39,12 @@ The changing colors serve as a visual representation of natural selection at wor
 This color shift also highlights the genetic diversity within the bacterial population, showing how certain traits (like heat and pressure resistance) may become more prevalent as bacteria with advantageous traits reproduce more successfully.
 In summary, the color change of the bacteria over time is a way to visually track the evolutionary progress of the population, allowing users to see the generational shift and adaptation to environmental challenges in real-time.
 
-# Color Change in Bacteria 
+# Initial Bacterial Evolution:
+<img width="1412" alt="image" src="https://github.com/user-attachments/assets/19ca5f34-1802-42e1-b8a5-88fdb18a75fa">
+
+# Color Change in Bacteria i.e After a Few Evolutions:
 <img width="1415" alt="image" src="https://github.com/user-attachments/assets/fa828eca-9aa6-4459-9190-9d575090c0ac">
 
-# Bacterial Evolution Image:
-<img width="1412" alt="image" src="https://github.com/user-attachments/assets/19ca5f34-1802-42e1-b8a5-88fdb18a75fa">
 
 # Learning Outcomes:
 This project demonstrates key concepts in evolutionary biology, such as natural selection, mutation, and survival of the fittest, in a controlled digital environment. It also provides practical experience with Python programming, including the use of libraries like Pygame, Tkinter, and Matplotlib, and concepts such as object-oriented programming, simulation modeling, and data visualization.
