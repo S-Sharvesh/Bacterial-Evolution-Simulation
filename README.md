@@ -67,10 +67,8 @@ Display:
 Finally, plt.show() displays the graphs in a single window with a tight layout for better visibility.
 You can replace the sample data with your actual simulation data to visualize the results of your simulation.
 
-# Plots:
+# Plots 1 & 2:
 <img width="1002" alt="image" src="https://github.com/user-attachments/assets/a6dc35a3-6891-485d-9b12-f307a30c65b1">
-<img width="570" alt="image" src="https://github.com/user-attachments/assets/309d6801-0141-413d-ac8b-747ef5ad6b10">
-<img width="630" alt="image" src="https://github.com/user-attachments/assets/d9732855-fbf5-40b3-bb2f-72e83b36ec70">
 
 # Learning Outcomes:
 This project demonstrates key concepts in evolutionary biology, such as natural selection, mutation, and survival of the fittest, in a controlled digital environment. It also provides practical experience with Python programming, including the use of libraries like Pygame, Tkinter, and Matplotlib, and concepts such as object-oriented programming, simulation modeling, and data visualization.
